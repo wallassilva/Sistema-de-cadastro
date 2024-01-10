@@ -1,9 +1,6 @@
 // Walas Silva
 // Projeto de PI
 
-//Link do Vídeo
-// https://drive.google.com/file/d/1ye3C7DHfuXL_Wc4qpa3Asv4un6JhJAhn/view?usp=share_link
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
